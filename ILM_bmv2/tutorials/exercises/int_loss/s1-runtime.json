@@ -1,0 +1,6 @@
+{
+  "target": "bmv2",
+  "p4info": "build/int_loss.p4.p4info.txt",
+  "bmv2_json": "build/int_loss.json",
+  "table_entries": []
+} 

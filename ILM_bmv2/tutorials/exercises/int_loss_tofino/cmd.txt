@@ -1,0 +1,2 @@
+py s12.connectionsTo(s13)[0][0].config(**{'loss' : 50})
+py s12.connectionsTo(s13)[0][1].config(**{'loss' : 50})
